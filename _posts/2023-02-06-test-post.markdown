@@ -2,7 +2,7 @@
 layout: post
 title:  "Hola!"
 date:   2023-02-06 12:32:45 +0100
-categories: -
+categories:
 ---
 
 Hola!!!
