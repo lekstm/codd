@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "test post"
-date:   2023-02-06 01:11:00
+date:   2023-02-06 01:11:00 +0100
 categories:
 ---
 
 #Hola!!!
 
-+0100
+
