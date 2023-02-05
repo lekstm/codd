@@ -1,9 +1,9 @@
 remote_theme: lekstm/jekyll-theme-console
 
 title: 'lekstm.github.io'
-baseurl: "/codd"
 #description: ""
-url: "https://lekstm.github.io"
+#baseurl: "/codd"
+#url: "https://lekstm.github.io"
 
 header_pages:
   - index.md
@@ -11,7 +11,7 @@ header_pages:
   - works.md
   - contact.md
 
-style: dark
+#style: dark
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
