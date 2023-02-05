@@ -11,6 +11,9 @@ header_pages:
   - works.md
   - contact.md
 
+exclude:
+  - README.md
+
 #style: dark
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
