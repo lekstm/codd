@@ -1,8 +1,8 @@
 remote_theme: lekstm/jekyll-theme-console
 
 title: 'lekstm.github.io'
+baseurl: "/index"
 #description: ""
-#baseurl: "/jekyll-theme-console-dark"
 #url: "https://lekstm.github.io"
 
 header_pages:
