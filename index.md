@@ -1,7 +1,7 @@
 ---
-title: /
+title: cd ~/
 layout: home
-permalink: /
+permalink: cd ~/
 ---
 
 # Other Demo Pages
