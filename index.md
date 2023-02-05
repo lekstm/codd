@@ -7,7 +7,7 @@ permalink: /cd ~
 
 # Hi there!
 
-geek / code / tchnologies / engeneering / digital art / music /
+coding / tchnologies / engeneering / digital art / music
 
 
-🄻🄾🄰🄳🄸🄽🄶 🄲🄾🄵🄵🄴🄴...
+🄻🄾🄰🄳🄸🄽🄶 🄲🄾🄵🄵🄴🄴 . . .
