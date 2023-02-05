@@ -1,7 +1,7 @@
 remote_theme: lekstm/jekyll-theme-console
 
 title: 'lekstm.github.io'
-baseurl: "/codd/home"
+#baseurl: "/codd/"
 #description: ""
 #url: "https://lekstm.github.io"
 
