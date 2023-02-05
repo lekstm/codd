@@ -6,8 +6,7 @@ title: 'lekstm.github.io'
 #url: "https://lekstm.github.io"
 
 header_pages:
-#  - index.md
-  - README.md
+  - index.md
   - works.md
   - about.md
   - contact.md
