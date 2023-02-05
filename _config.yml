@@ -1,3 +1,5 @@
+remote_theme: lekstm/jekyll-theme-console
+
 title: 'lekstm.github.io'
 #description: ""
 #baseurl: "/jekyll-theme-console-dark"
@@ -15,4 +17,4 @@ header_pages:
 
 # Build settings
 #markdown: kramdown
-remote_theme: lekstm/jekyll-theme-console
+#remote_theme: lekstm/jekyll-theme-console
