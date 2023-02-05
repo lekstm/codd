@@ -1,7 +1,7 @@
 ---
-title: /cd ~
+title: /root
 layout: home
-permalink: /cd ~
+permalink: /root
 ---
 
 coding / tchnologies / engeneering / digital art / music
