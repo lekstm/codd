@@ -1,4 +1,4 @@
-remote_theme: lekstm/jekyll-theme-console
+#remote_theme: lekstm/jekyll-theme-console
 
 title: 'lekstm.github.io'
 description: ""
@@ -16,5 +16,5 @@ header_pages:
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
-#markdown: kramdown
-#remote_theme: lekstm/jekyll-theme-console
+markdown: kramdown
+remote_theme: lekstm/jekyll-theme-console
