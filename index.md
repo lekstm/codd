@@ -1,7 +1,7 @@
 ---
-title: /root
+title: /home
 layout: home
-permalink: /root
+permalink: /home
 ---
 
 coding / tchnologies / engeneering / digital art / music
